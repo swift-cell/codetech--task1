@@ -1,4 +1,4 @@
-Create a Python program that acts as a basic simple calculator using two numbers
+
 print("Try programiz.pro")
 # This function adds two numbers
 def add(x, y):
